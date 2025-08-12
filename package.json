@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Mani-bot",
-    "stop": "pm2 stop Your-Own-Bot",
+    "stop": "pm2 stop Mani-bot",
     "restart": "pm2 restart Mani-bot"
   },
   "dependencies": {
