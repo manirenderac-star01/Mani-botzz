@@ -16,7 +16,7 @@ async (conn, mek, m, { from }) => {
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
                       `FN:${ownerName}\n` +  
-                      `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${ownerNumber}\n` + 
+                      `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+923033096103', '')}:${ownerNumber}\n` + 
                       'END:VCARD';
 
         // Send the vCard
@@ -40,7 +40,7 @@ async (conn, mek, m, { from }) => {
 ╰──────────────┈⊷
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐌𝐚𝐧𝐢-𝐌𝐃 ❣️*`, // Display the owner's details
             contextInfo: {
-                mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
+                mentionedJid: [`${ownerNumber.replace('+923033096103', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
