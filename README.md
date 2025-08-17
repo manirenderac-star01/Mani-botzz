@@ -1,7 +1,7 @@
 # Mani-bot
 Multiple bot v2
 
-NODES JS 
+NODES JS COPY THIS 👇
 
 name: Node.js CI
 
