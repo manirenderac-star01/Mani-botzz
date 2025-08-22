@@ -1,0 +1,31 @@
+
+{
+    "bot-name": "Mani-bot",
+    "description": "Mani bot xᴾᴿᴼ is a powerful and feature-rich WhatsApp bot created by Mani mode (Rana Salman).With seamless functionality and a user-friendly interface, it’s the ultimate bot for enhancing WhatsApp experiences. © Mani Md WhatsApp Bot - MD.",
+    "logo": "https://files.catbox.moe/5pwx0a.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "anjuxpro", "byimaxz"],
+    "documentation-link": "https://mani-bot-session-generator.onrender.com/",
+    "owner-verification":"maniburner73@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with Mani-Md;;;, Or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+                
+      },
+      "BOT_NUMBER": {
+        "description": "Put Your Bot Number",
+        "value":"",
+        "required": true
+        
+      },
+      "PASSWORD": {
+        "description": "Put your ANJU-X-PRO Site Account Password.(Create Account From This Site = https://mani-bot-session-generator.onrender.com/)",
+        "value":"",
+        "required": true
+
+      }
+    }
+  
+}
