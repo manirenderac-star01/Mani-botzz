@@ -1,8 +1,19 @@
-# Mani-bot
-Multiple bot v2
+# MANI_MD
+✧〖Best Whatsapp Bot 𝕍1 𝔸𝕟𝕥𝕚𝕓𝕒𝕟 Heroku &amp; WhatsApp Account 2025 𝐍𝐄𝐖 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝔹𝕠𝕥〗✧
 
-NODES JS COPY THIS 👇
 
+
+
+𝙋𝘼𝙄𝙍 𝘾𝙊𝘿
+https://mani-bot-session-generator.onrender.com/
+
+
+
+
+
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF MANII_MD ✠***
+
+```
 name: Node.js CI
 
 on:
@@ -36,3 +47,6 @@ jobs:
 
     - name: Start application
       run: npm start
+```
+
+-------
